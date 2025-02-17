@@ -7,7 +7,7 @@
 To use Git with WebStorm, you need to install the following software:
 - **[WebStorm](https://www.jetbrains.com/webstorm/download/)**
 - **[Git](https://git-scm.com/downloads)**
-- **[GitHub](https://github.com/)** (Sign up if you haven’t)
+- **[GitHub](https://github.com/)** (create an account if you haven’t)
 
 ### Step 2: Configure Git in WebStorm
 1. Open **WebStorm**.
@@ -69,10 +69,10 @@ To use Git with WebStorm, you need to install the following software:
 
 ## Part 2: Glossary
 
-- **Branch**: A separate version of a repository used for working on different features.
-- **Clone**: A copy of a remote repository downloaded to a local machine.
+- **Branch**: A separate version of a repository used to work on different features without affecting the main branch.
+- **Clone**: A copy of a remote repository downloaded to your local computer.
 - **Commit**: A saved change in a Git repository.
-- **Fetch**: A command to retrieve the latest changes from a remote repository without merging them.
+- **Fetch**: A command to retrieve the latest changes done by other people without merging them.
 - **Git**: A distributed version control system that tracks changes in code.
 - **GitHub**: A cloud-based platform for hosting Git repositories.
 - **Merge**: Combining changes from different branches into a single branch.
