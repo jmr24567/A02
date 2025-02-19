@@ -39,33 +39,6 @@ To use Git with WebStorm, you need to install the following software:
    git remote add origin <repository_URL>
    ```
 
-### Step 6: Basic Git Workflow
-1. **Stage and commit changes**:
-   ```sh
-   git add .
-   git commit -m "Initial commit"
-   ```
-2. **Push changes to GitHub**:
-   ```sh
-   git push -u origin main
-   ```
-3. **Fetch and pull updates from GitHub**:
-   ```sh
-   git fetch
-   git pull origin main
-   ```
-4. **Create a new branch and switch to it**:
-   ```sh
-   git branch new-feature
-   git checkout new-feature
-   ```
-5. **Merge branches**:
-   ```sh
-   git checkout main
-   git merge new-feature
-   ```
-
----
 
 ## Part 2: Glossary
 
@@ -73,7 +46,7 @@ To use Git with WebStorm, you need to install the following software:
 - **Clone**: A copy of a remote repository downloaded to your local computer.
 - **Commit**: A saved change in a Git repository.
 - **Fetch**: A command to retrieve the latest changes done by other people without merging them.
-- **Git**: A distributed version control system that tracks changes in code.
+- **Git**: A distributed version control system that tracks code changes.
 - **GitHub**: A cloud-based platform for hosting Git repositories.
 - **Merge**: Combining changes from different branches into a single branch.
 - **Merge Conflict**: A situation when Git cannot automatically merge changes due to conflicting edits.
